@@ -12,7 +12,7 @@
   
 <tr>
 <td align="center">
-$${\color{#4A1717} EVAN}$$
+$${\color{#ACB2B5} EㅤㅤVㅤㅤAㅤㅤN}$$
 </td>
 </tr>
 </table>
